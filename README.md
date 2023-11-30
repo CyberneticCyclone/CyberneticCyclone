@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberneticCyclone
-- 👀 I’m interested in ...gaming, soccer, and legos!
-- 🌱 I’m currently learning ...C++ on code academy
+- 👀 I’m interested in ...Coding!
+- 🌱 I’m currently learning ... Cybersecurity at CIAT!
 - 💞️ I’m looking to collaborate on ...my coding to improve
 - 📫 How to reach me ...here!
 
